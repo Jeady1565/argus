@@ -1,0 +1,6 @@
+apiVersion: v2
+appVersion: latest
+description: A Helm chart for Kubernetes
+name: argus-helloworld-nginx2
+type: application
+version: 0.2.0
